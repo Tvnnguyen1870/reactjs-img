@@ -1,0 +1,28 @@
+.content1 {
+    width: 200px;
+    height: 100px;
+    background-color: #89c7de;
+}
+
+.content2 {
+    width: 200px;
+    height: 100px;
+    background-color: #4c565b;
+}
+
+.day, .night {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.day:hover {
+    cursor: pointer;
+    color: white;
+    background-color: rgb(188, 163, 90);
+}
+
+.night:hover {
+    cursor: pointer;
+    color: white;
+    background-color: rgb(208, 157, 95);
+}
